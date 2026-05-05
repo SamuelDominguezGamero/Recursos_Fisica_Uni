@@ -6,3 +6,6 @@ Enlaces a recursos (vídeos, apuntes, actividades resueltas) de física a nivel 
 
 [(Vídeo) Ley de Gauss - Explicación y ejemplos](https://youtu.be/3aWFJdqM_Rw?si=bw4tfTMWPJTGZfdx)
 
+[(Vídeo) Gauss - Esfera](https://youtu.be/-e9HLvwOQEE?si=doQlyTBPoIpYpt6T)
+
+[(Vídeo) Gauss - Cilindro](https://youtu.be/KjdKz-ADVmc?si=PIAyCidzm9vOZbxL)
