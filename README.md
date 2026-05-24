@@ -14,4 +14,8 @@ Enlaces a recursos (vídeos, apuntes, actividades resueltas) de física a nivel 
 
 [(Vídeo) Gauss - Esfera maciza, hueca, plano](https://youtu.be/-iIUb9Bma0k?si=TYwkmBTeRaa_7DqU)
 
+[(Vídeo) Conductores - resumen global](https://youtu.be/cA5som2tDz8?si=WuZpWKhrUN6tSunq)
+
+[(Vídeo) Potencial eléctrico en conductores - ejercicio resuelto](https://www.youtube.com/watch?v=mYoxNX-lLgI)
+
 [(Web) Gauss - Ejercicios resueltos varios (con conductores)](http://www.sc.ehu.es/sbweb/ocw-fisica/problemas/electromagnetismo/gauss/problemas/gauss_problemas.xhtml)
