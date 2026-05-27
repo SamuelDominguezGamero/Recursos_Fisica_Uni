@@ -19,3 +19,13 @@ Enlaces a recursos (vídeos, apuntes, actividades resueltas) de física a nivel 
 [(Vídeo) Potencial eléctrico en conductores - ejercicio resuelto](https://www.youtube.com/watch?v=mYoxNX-lLgI)
 
 [(Web) Gauss - Ejercicios resueltos varios (con conductores)](http://www.sc.ehu.es/sbweb/ocw-fisica/problemas/electromagnetismo/gauss/problemas/gauss_problemas.xhtml)
+
+[(Vídeo) Condensadores cilíndricos y esféricos](https://www.youtube.com/watch?v=PcMgFpZkUq4)
+
+[(Vídeo) Asociación de condensadores](https://youtu.be/hz3fxaXpdVc?si=mGohEJXVYzlg9PVf)
+
+[(Vídeo) Condensadores con dieléctricos (teoría)](https://youtu.be/QnJOzQOh2_g?si=3epIRjEOsKteot1H)
+
+[(Web) Condensadores con dieléctricos (teoría)](http://www.sc.ehu.es/sbweb/fisica/elecmagnet/campo_electrico/dielectrico/dielectrico.htm)
+
+[(Vídeo) Ejercicio difícil dieléctrico + condensador](https://www.youtube.com/watch?v=FW_bRAY3lis)
