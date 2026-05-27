@@ -29,3 +29,5 @@ Enlaces a recursos (vídeos, apuntes, actividades resueltas) de física a nivel 
 [(Web) Condensadores con dieléctricos (teoría)](http://www.sc.ehu.es/sbweb/fisica/elecmagnet/campo_electrico/dielectrico/dielectrico.htm)
 
 [(Vídeo) Ejercicio difícil dieléctrico + condensador](https://www.youtube.com/watch?v=FW_bRAY3lis)
+
+[(Web) Página de la escuela de ingenieros con muchos problemas resueltos](http://laplace.us.es/wiki/index.php/Problemas_de_electrost%C3%A1tica_en_medios_materiales_(GIOI))
