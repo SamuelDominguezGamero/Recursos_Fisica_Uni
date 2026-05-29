@@ -30,4 +30,6 @@ Enlaces a recursos (vídeos, apuntes, actividades resueltas) de física a nivel 
 
 [(Vídeo) Ejercicio difícil dieléctrico + condensador](https://www.youtube.com/watch?v=FW_bRAY3lis)
 
+[(Web) Ejercicio resuelto: condensador placas plano-paralelas con dos dieléctricos](tesla.us.es/wiki/index.php/Condensador_con_dos_capas_de_dieléctrico)
+
 [(Web) Página de la escuela de ingenieros con muchos problemas resueltos](http://laplace.us.es/wiki/index.php/Problemas_de_electrost%C3%A1tica_en_medios_materiales_(GIOI))
