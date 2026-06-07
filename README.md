@@ -37,8 +37,11 @@ Enlaces a recursos (vídeos, apuntes, actividades resueltas) de física a nivel 
 
 ### Campo magnético
 [(Vídeo) Resumen bachillerato](https://youtu.be/IZsldf1-LJs?si=SnMCRZGjY8eQ_1ua)
+
 [(Vídeo) Resumen Ley de Lorentz](https://youtu.be/F5QLUtvWD1E?si=UxZmhhbJYce3DGew)
+
 [(Vídeo) Momento magnético y torque en una espira](https://www.youtube.com/watch?v=VXKJ1jbphAU)
+
 [(Vídeo) Dos problemas de espiras rectangualres](https://www.youtube.com/watch?v=Q79HJTyEkaI)
 
 
