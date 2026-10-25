@@ -3,6 +3,14 @@ Enlaces a recursos (vídeos, apuntes, actividades resueltas) de física a nivel 
 
 ## Física I
 
+### Dinámica
+- [(Apuntes) Fuerza de Rozamiento Estática y Dinámica](https://gunt.de/images/download/static_kinetic_friction_spanish.pdf)
+- [(Vídeo) Fuerza de Rozamiento Estática y Dinámica](https://www.youtube.com/watch?v=g76qlR5WayI)
+
+### Trabajo y Energía
+- [(Vídeo) Trabajo Fuerza de Rozamiento](https://youtu.be/JvQY85uPF54)
+- 
+
 ## Física II (Electromagnetismo básico)
 ### Ley de Gauss, distribuciones de carga
 - [(Vídeo) Teorema de gauss, campo eléctrico, Carga Puntual](https://youtu.be/jJSq8BFJYt4?si=2gJ3dRqtnP-IhQgt)
